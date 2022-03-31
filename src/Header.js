@@ -8,12 +8,12 @@ function Header() {
       <Nav.Item as="li">
         <Nav.Link href="/Login">Login</Nav.Link>
       </Nav.Item>
-      <Nav.Item as="li">
+      {/* <Nav.Item as="li">
         <Nav.Link href="/Register">Link</Nav.Link>
       </Nav.Item>
       <Nav.Item as="li">
         <Nav.Link eventKey="link-2">Link</Nav.Link>
-      </Nav.Item>
+      </Nav.Item> */}
     </Nav>
     )
   }
